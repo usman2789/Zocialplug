@@ -240,8 +240,8 @@ body {
 }
 
 img {
-  max-width: 100%;
-  vertical-align: middle;
+  max-width: 180%;
+  vertical-align: text-top;
   display: inline-block;
 }
 
@@ -872,10 +872,12 @@ textarea.w-input, textarea.w-select {
   }
 }
 
+
 @media screen and (max-width: 767px) {
   .w-hidden-main, .w-hidden-medium {
     display: inherit !important;
   }
+  
 
   .w-hidden-small {
     display: none !important;
@@ -3705,67 +3707,67 @@ textarea.w-input, textarea.w-select {
 }
 
 .our-talent-card-single.talent-1 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a6fe7d9e321833fa6e50f4_Ross%20Smith%203.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("img/home/2.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-2 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--light-blue)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a6fb1822c2413d15de3689_Patrick%20Barnes.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--light-blue)), url("img/home/1.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-3 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70098ddf2276383235fd2_Ross%20Smith%204.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("img/home/5.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-4 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--yellow)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a700c0c62947e9b7bf68b7_The%20Pun%20Guys%202.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--yellow)), url("img/home/3.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-5 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a7010a22c241c456de758c_Adam%20Milardovic%202.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("img/home/4.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-6 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--light-blue)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0db48a3bf4c8883cab2e_Andy%20The%20Sk.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--light-blue)), url("img/home/6.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-7 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0ef2f0e3a94cd5b3e0c4_Kayla%20Oxley.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("img/home/7.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-8 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0ef243885863de69c54b_Blameiton%20kway.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("img/home/11.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-9 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--yellow)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0ef1682caa47b8584157_Pat%20D%20Lucky.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--yellow)), url("img/home/10.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-10 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0ef29fa0e9e20164bc0a_Oxlee.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--tomato)), url("img/home/8.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
 
 .our-talent-card-single.talent-11 {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63dc0ef1227a19a719c8431e_Max%20Wyatt.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 0) 51%, var(--plum)), url("img/home/9.jpg");
   border-radius: 20px;
   text-decoration: none;
 }
@@ -3837,27 +3839,27 @@ textarea.w-input, textarea.w-select {
 }
 
 .meta-creators-single-card.meta-talent-1 {
-  background-image: url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70a769e85361de7b975f6_Trick%20Daddy%20Dollars.png");
+  background-image: url("img/meta/1.png");
   text-decoration: none;
 }
 
 .meta-creators-single-card.meta-talent-2 {
-  background-image: url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70c3ea014a59017f40ded_QCP.png");
+  background-image: url("img/meta/3.png");
   text-decoration: none;
 }
 
 .meta-creators-single-card.meta-talent-3 {
-  background-image: url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70b87ecd8269fa6c4dcf8_QCP.png");
+  background-image: url("img/meta/2.png");
   text-decoration: none;
 }
 
 .meta-creators-single-card.meta-talent-4 {
-  background-image: url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70c3ec7b144241c128c72_Zion%20Clark.png");
+  background-image: url("img/meta/4.png");
   text-decoration: none;
 }
 
 .meta-creators-single-card.meta-talent-5 {
-  background-image: url("https://assets-global.website-files.com/635fb2cc8045a5ee2335202d/63a70c3ed3398d383a90eb0f_Adam%20Milardovic%20meta.png");
+  background-image: url("img/meta/5.png");
   text-decoration: none;
 }
 
@@ -6015,4 +6017,10 @@ textarea.w-input, textarea.w-select {
   font-weight: 200;
   font-style: normal;
   font-display: swap;
+}
+@media screen and (max-width:767px) {
+  #main-logo{
+    height: 40px;
+    width: 150px;
+  }
 }
