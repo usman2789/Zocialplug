@@ -878,7 +878,9 @@ textarea.w-input, textarea.w-select {
     display: inherit !important;
   }
   
-
+  .submit-button-2 {
+    width:20rem !important;
+  }
   .w-hidden-small {
     display: none !important;
   }
@@ -1676,6 +1678,9 @@ textarea.w-input, textarea.w-select {
   .w-lightbox-content {
     height: 96vh;
     margin-top: 2vh;
+  }
+  .submit-button-2{
+    width: 24rem;
   }
 
   .w-lightbox-view, .w-lightbox-view:before {
